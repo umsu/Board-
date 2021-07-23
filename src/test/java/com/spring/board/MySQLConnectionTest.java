@@ -16,8 +16,8 @@ public class MySQLConnectionTest {
 
 	static final String DRIVER = "com.mysql.jdbc.Driver";
 	static final String URL = "jdbc:mysql://127.0.0.1:3306/board2?allowPublicKeyRetrieval=true&useSSL=false";
-	static final String USERNAME = "root";
-	static final String PASSWORD = "root1";
+	static final String USERNAME = "board";
+	static final String PASSWORD = "1234";
 
 	@Test
 	public void getMySQLConnectionTest() {

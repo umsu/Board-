@@ -1,7 +1,7 @@
 -- 스키마 조회
 SHOW DATABASES;
 
--- 스키마 생성  전 board2 로 만듬
+-- 스키마 생성
 CREATE DATABASE board; -- CREATE SCHEMA board; 
 
 -- TB_BOARD 테이블 삭제
